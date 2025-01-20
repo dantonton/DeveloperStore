@@ -37,11 +37,11 @@ A simple application for managing sales, designed with clean architecture princi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-management.git
+   git clone https://github.com/dantonton/DeveloperStore.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd sales-management
+   cd DeveloperStore/DeveloperStore
    ```
 3. Build and run the application:
    ```bash
